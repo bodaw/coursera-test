@@ -1,0 +1,151 @@
+body{
+	background-color:gray;
+	background-image:url('images/background.gif');
+	font: arial bold 18px/1.5 arial; 
+	overflow-y:scroll; 
+	font-family:Century Schoolbook L;
+}
+
+#all{
+	width: 1000px; 
+	margin:auto;
+
+}
+
+#banner{
+	background-repeat:no-repeat; 
+	background-position:center; 
+	background-image:url('images/banner.jpg');
+	vertical-align: top; 
+	height: 200px;
+	margin-bottom:10px;
+	text-align:center;
+	border: 5px;
+	border-style:outset;
+	
+}
+
+a {
+	color:red;
+	text-decoration:none;
+	font-family: Verdana;
+	font-style:italic;
+	font-weight: bold;
+}
+
+a:visited{
+	color:red;
+	text-decoration:none;
+	font-family: Verdana;
+	font-style:italic;
+	font-weight: bold;
+	width
+}
+
+td a { 
+	width: 100%; 
+	height: 100%; 
+	text-align: center; 
+	display: block }
+
+
+#stranka{
+	float:left;
+	width:990px;
+	opacity:1;
+	background-color:white;
+	border: 5px;
+	border-style:outset;	
+}
+
+#kontakt{
+	float:left;
+	
+}#mapa{
+	float:left;
+	margin:12px 0px 40px 0px; 
+}
+
+#paticka{
+	border-top: solid 1px grey;
+	opacity:1;
+	background-color:white;
+	text-align:right;
+	padding-right:20px;
+}
+
+#nadpis{
+	color:red;
+	font-size:x-large;
+	font-style:italic;
+	text-align:right;
+	font-family:Century Schoolbook L; 
+	margin:12px 0px 40px 0px; 
+	width:100%; 
+	font-weight:600;
+	padding-right:20px;
+	
+}
+
+
+#nadpis td{ 
+	border-bottom:2px solid red; 
+	width:100%;
+}
+
+#foto td{ 
+	padding-left:20px; 
+
+}
+#kontakt{
+	margin:10px 40px 30px 40px;
+}
+
+#menu {
+	float:left;
+	width:600px;
+	padding : 0 0 0 0;
+	margin : 170 0 0 2%;
+	list-style-type : none;
+}
+
+#menu td{
+	width:400px;
+	padding : 0 0 0 0;
+	margin : 0;
+	text-align:center;
+}
+
+.over {
+	width:400px;
+	padding : 0 0 0 0;
+	margin : 0;
+	text-align:center;
+	border-style: inset;
+}
+
+.norm{
+	width:400px;
+	padding : 0 0 0 0;
+	margin : 0;
+	text-align:center;
+	border-style:outset;
+}
+
+.float {
+	width: 450;
+	float:left;
+}
+
+#cenik { 
+	border:2px solid red; 
+	width:400px;
+}
+
+
+#galerie td {
+	width:150px;
+	text-align:center;
+	}
+
+

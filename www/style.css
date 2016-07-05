@@ -1,0 +1,104 @@
+body{
+	background-color:white;
+	font: arial bold 18px/1.5 arial; 
+	overflow-y:scroll; 
+	font-family:Century Schoolbook L;
+}
+
+#all{
+	width: 850px; 
+	margin:auto;
+}
+
+#banner{
+	background-repeat:no-repeat; 
+	background-position:center; 
+	vertical-align: top; 
+	height: 300px;
+	margin-bottom:22px;
+	text-align:center;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+}
+
+a:visited{
+	color:black;
+	text-decoration:none;
+}
+
+
+#stranka{
+	float:left;
+	width:680px;
+	border: solid 1px grey;
+	opacity:1;
+	background-color:white;	
+}
+
+#paticka{
+	border-top: solid 1px grey;
+	opacity:1;
+	background-color:white;
+	text-align:right;
+	padding-right:20px;
+}
+
+#nadpis{
+	color:#cf8d3f;
+	font-size:x-large;
+	font-style:italic;
+	text-align:right;
+	font-family:Century Schoolbook L; 
+	margin:12px 0px 40px 0px; 
+	width:100%; 
+	font-weight:600;
+	padding-right:20px;
+	
+}
+
+#nadpis td{ 
+	border-bottom:2px solid #cf8d3f; 
+	width:100%;
+}
+
+#kontakt{
+	margin:10px 40px 30px 40px;
+}
+
+#main_menu {
+	float:left;
+	}
+
+#main_menu ul {
+	width:150px;
+	padding : 0 0 0 0;
+	margin : 0 0 0 0;
+	list-style-type : none;
+}
+
+
+	
+	
+#main_menu ul li a {
+	background-image: url('images/menu.gif');
+	background-repeat:no-repeat;
+	background-position: bottom;
+	text-align:center;
+	text-decoration : none;
+	font-weight : bold;
+	font-size:large;
+	display : block;
+	padding : 10px 15px 10px 15px;
+	margin : 0 0 10 0 ;
+	font-style:italic;
+}
+
+#galerie td {
+	width:150px;
+	text-align:center;
+	}
+
+
